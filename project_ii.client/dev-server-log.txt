@@ -1,0 +1,24 @@
+
+> project_ii.client@0.0.0 dev
+> vite
+
+node:internal/modules/esm/resolve:264
+    throw new ERR_MODULE_NOT_FOUND(
+          ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'D:\OneDrive - Technical University of Cluj-Napoca\repositories\II_Project-branch_adi\project_ii.client\node_modules\vite\dist\node\cli.js' imported from D:\OneDrive - Technical University of Cluj-Napoca\repositories\II_Project-branch_adi\project_ii.client\node_modules\vite\bin\vite.js
+    at finalizeResolution (node:internal/modules/esm/resolve:264:11)
+    at moduleResolve (node:internal/modules/esm/resolve:924:10)
+    at defaultResolve (node:internal/modules/esm/resolve:1148:11)
+    at ModuleLoader.defaultResolve (node:internal/modules/esm/loader:390:12)
+    at ModuleLoader.resolve (node:internal/modules/esm/loader:359:25)
+    at ModuleLoader.getModuleJob (node:internal/modules/esm/loader:234:38)
+    at ModuleLoader.import (node:internal/modules/esm/loader:322:34)
+    at importModuleDynamically (node:internal/modules/esm/translators:160:35)
+    at importModuleDynamicallyCallback (node:internal/modules/esm/utils:225:14)
+    at start (file:///D:/OneDrive%20-%20Technical%20University%20of%20Cluj-Napoca/repositories/II_Project-branch_adi/project_ii.client/node_modules/vite/bin/vite.js:44:3) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///D:/OneDrive%20-%20Technical%20University%20of%20Cluj-Napoca/repositories/II_Project-branch_adi/project_ii.client/node_modules/vite/dist/node/cli.js'
+}
+
+Node.js v21.7.1

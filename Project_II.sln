@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_II.Server", "Project_II.Server\Project_II.Server.csproj", "{EC972114-89DC-42C5-90B4-4F5D20F50C01}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "project_ii.client", "project_ii.client\project_ii.client.esproj", "{5EE03336-CDEA-46A3-89A3-5DA7A9065E40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC972114-89DC-42C5-90B4-4F5D20F50C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC972114-89DC-42C5-90B4-4F5D20F50C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC972114-89DC-42C5-90B4-4F5D20F50C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC972114-89DC-42C5-90B4-4F5D20F50C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE03336-CDEA-46A3-89A3-5DA7A9065E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE03336-CDEA-46A3-89A3-5DA7A9065E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE03336-CDEA-46A3-89A3-5DA7A9065E40}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5EE03336-CDEA-46A3-89A3-5DA7A9065E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE03336-CDEA-46A3-89A3-5DA7A9065E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE03336-CDEA-46A3-89A3-5DA7A9065E40}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B9C4EE-8AD1-499A-959A-150E0726EC15}
+	EndGlobalSection
+EndGlobal

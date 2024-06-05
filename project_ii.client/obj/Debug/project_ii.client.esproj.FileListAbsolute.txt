@@ -1,0 +1,4 @@
+E:\UTCN\YEAR III\II\Project\project_ii.client\obj\Debug\project_ii.client.esproj.CoreCompileInputs.cache
+E:\UTCN\YEAR III\II\II_Project\project_ii.client\obj\Debug\project_ii.client.esproj.CoreCompileInputs.cache
+D:\OneDrive - Technical University of Cluj-Napoca\repositories\II_Project-branch_adi\project_ii.client\obj\Debug\project_ii.client.esproj.CoreCompileInputs.cache
+D:\II_Project-branch_adi\project_ii.client\obj\Debug\project_ii.client.esproj.CoreCompileInputs.cache
